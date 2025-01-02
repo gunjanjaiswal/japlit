@@ -75,6 +75,7 @@ button{
 .bookinfo{
     display: flex;
     gap:60px;
+    padding-bottom: 40px;
 
 }
 
@@ -87,4 +88,22 @@ button{
 
 .about{
     font-size: 9px;
+    text-align:center;l
+}
+
+.quote{
+    padding: 80px 350px;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.thequote{
+    font-style: italic;
+}
+
+.source{
+    font-size: 20px;
+    margin-left: 350px;
+    font-weight: bold;
 }
